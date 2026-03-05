@@ -1,21 +1,15 @@
-# [Project Title]
-> *One sentence. What did you analyze, build, or solve - and why does it matter?*
+# Electronic Sales Performance
+> I analyzed an electronic sales dataset in Power BI by cleaning and modelling the data, creating a custom Date table and DAX time-intelligence measures to reveal sales trends, channel performance, and profitability insights that support better business decisions.
 
----
 
-## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
+## ⚙️ Project Type 
+> 
+- [x] Exploratory Data Analysis (EDA)
+- [x] Dashboard / Data Visualization
+- [x]  ETL
+- [x] Data Cleaning/ Modelling
+- [x] End-to-End (multiple of the above)
 
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
-- [ ] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
-- [ ] Data Cleaning / Wrangling
-- [ ] End-to-End (multiple of the above)
-- [ ] Other: ___________
-
----
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
