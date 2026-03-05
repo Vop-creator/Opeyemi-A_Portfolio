@@ -3,7 +3,7 @@
 I analyzed an electronic sales dataset in Power BI by cleaning and modelling the data, creating a custom Date table and DAX time-intelligence measures to reveal sales trends, channel performance, and profitability insights that support better business decisions.
 
 
-## ⚙️ Project Type 
+## Project Type 
 
 - [x] Exploratory Data Analysis (EDA)
 - [x] Dashboard / Data Visualization
@@ -119,13 +119,11 @@ I explored patterns in sales over time and across channels, product categories, 
 
 ### Methods Used
 
-- [e.g., Descriptive statistics - distribution, central tendency, outlier detection]
-- [e.g., Trend analysis across [time period]]
-- [e.g., Segmentation / group comparison by [dimension]]
-- [e.g., Correlation analysis between [variable A] and [variable B]]
-- [e.g., SQL window functions for [specific aggregation]]
-- [e.g., Custom aggregation or transformation logic in [tool]]
-
+- Dax Measure to calculate total sales, total profit, and profit margin.
+- Trend analysis across months, comparing the sales of the current year to the same period last year to track sales growth and seasonal patterns.
+- Sales comparison by sales channel, product category, and region.
+- Time-intelligence calculations using DAX, including Sales YTD, Sales QTD, SPLY, and Sales YoY %.
+- Transformation logic in Power BI, including creating a Date table and computing KPIs for interactive dashboards.
 ---
 
 ## 9. Key Insights
