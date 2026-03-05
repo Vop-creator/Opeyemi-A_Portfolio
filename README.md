@@ -1,9 +1,10 @@
 # Electronic Sales Performance
-> I analyzed an electronic sales dataset in Power BI by cleaning and modelling the data, creating a custom Date table and DAX time-intelligence measures to reveal sales trends, channel performance, and profitability insights that support better business decisions.
+
+I analyzed an electronic sales dataset in Power BI by cleaning and modelling the data, creating a custom Date table and DAX time-intelligence measures to reveal sales trends, channel performance, and profitability insights that support better business decisions.
 
 
 ## ⚙️ Project Type 
-> 
+
 - [x] Exploratory Data Analysis (EDA)
 - [x] Dashboard / Data Visualization
 - [x]  ETL
@@ -45,44 +46,19 @@ An electronic retail company was generating large amounts of sales data across d
 
 ### Scope
 
-<!--
-  WHAT GOOD LOOKS LIKE:
-  In Scope: "Transaction-level data for Regions A–E, Jan 2023–Jun 2024.
-             Analysis covers revenue, return rates, and product category performance."
-  Out of Scope: "Customer demographics and marketing spend data were excluded -
-                 demographic data was incomplete for two regions, and marketing
-                 data sits in a separate system outside this engagement."
-
-  WHAT TO AVOID:
-  ❌ Leaving Out of Scope blank. This is the section that protects your credibility.
-     If you don't define the fence, reviewers assume you missed things.
--->
-
-| Dimension | Details |
-|-----------|---------|
-| **In Scope** | [What is included - data sources, time periods, segments] |
-| **Out of Scope** | [What you explicitly excluded - and a brief reason why] |
-| **Time Period** | [Date range of the data or the project itself] |
-| **Granularity** | [Unit of analysis - row-level, daily aggregates, per-user, etc.] |
+**In Scope**: "Sales transaction data including revenue, product categories, sales channels, and                   regional performance. Analysis focuses on identifying sales trends, top-performing                  categories, and regional contributions using Power BI visualizations"
+**Out of Scope**: "Customer demographic information and marketing campaign data were excluded                         because the dataset only contains sales transactions, product categories,                           channels, and regions."
+**Time Period**: Dec 2012 - Dec 2015
+**Granularity**: Transaction-level sales records aggregated into monthly, category-level, and                         regional summaries for analysis.
 
 ### Tools & Technologies
 
-<!--
-  List only what you actually used on this project.
-  This is not your skills section - it's the project's technical context.
--->
-
-| Category | Tool(s) Used |
-|----------|-------------|
-| Data Storage | [e.g., PostgreSQL, CSV files, BigQuery, S3] |
-| Data Processing | [e.g., Python, R, SQL, Excel, dbt] |
-| Analysis | [e.g., pandas, dplyr, custom SQL queries] |
-| Visualization | [e.g., Matplotlib, Tableau, Power BI, Looker] |
-| Version Control | [e.g., Git / GitHub] |
-| Documentation | [e.g., Markdown, Notion] |
-| Other | [Any additional tools] |
-
----
+Data Storage: [CSV files]
+Data Processing: [Power Query]
+Analysis | [Power BI] 
+Visualization: [Power BI] 
+| Version Control: [ Git / GitHub] 
+| Documentation: [Markdown]
 
 ## 4. Repository Structure
 
@@ -92,31 +68,15 @@ An electronic retail company was generating large amounts of sales data across d
 ├── data/
 │   ├── raw/                  # Original, unmodified source data - never edited
 │   ├── processed/            # Cleaned and transformed data
-│   └── external/             # Reference data, lookup tables, third-party files
-│
-├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
-│
-├── scripts/                  # Reusable .py, .R, or .sh processing files
-│
-├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
-│   ├── exploratory/          # Ad-hoc or investigative queries
-│   ├── transformations/      # Cleaning and reshaping logic
-│   └── final/                # Production-ready or presentation queries
+│   └── external/             # Reference data, lookup tables, third-party file
 │
 ├── reports/                  # Final outputs: PDFs, slide decks, Word docs
 │
 ├── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
 │
-├── docs/                     # Data dictionaries, schema notes, reference material
-│
 ├── project_metadata.yml      # Machine-readable metadata (optional)
 └── README.md                 # You are here
 ```
-
-> ⚠️ *Delete folders you didn't use. An empty folder is worse than no folder.*
-> SQL-heavy projects: keep `queries/`. Analysis-only projects: keep `notebooks/`. Both? Keep both.
-
----
 
 ## 5. Data Workflow
 
