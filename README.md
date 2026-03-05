@@ -104,34 +104,18 @@ An electronic retail company was generating large amounts of sales data across d
 
 ## 8. Analysis & Metrics
 
-<!--
-  Explain what you measured and how - before you share what you found.
-
-  WHAT GOOD LOOKS LIKE:
-  Metric: "Customer Return Rate"
-  Definition: "Number of transactions flagged as returns divided by total
-               transactions, calculated at product-category and regional grain."
-  Why It Matters: "Return rate - not sales volume - was hypothesised to
-                  explain regional revenue gaps. This metric tests that hypothesis."
-
-  WHAT TO AVOID:
-  ❌ Defining a metric only in code: SUM(returns) / COUNT(transaction_id)
-     That's an implementation. Write the plain-language definition here.
-     Both belong in your project - the definition in the README,
-     the implementation in the code.
--->
-
 ### Analytical Approach
 
-[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method - exploratory work is valid, just call it that.]
+I explored patterns in sales over time and across channels, product categories, and regions. Using Power BI, I calculated KPIs such as Total Sales, Profit, Profit Margin, Sales YTD, Sales SPLY, and Sales YoY %, then visualized them to identify growth trends, top performers, and regional opportunities.”
 
 ### Key Metrics Defined
 
-| Metric | Plain-Language Definition | Why It Matters |
-|--------|--------------------------|----------------|
-| `[Metric 1]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 2]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 3]` | [What it measures, in one sentence] | [What decision or question it answers] |
+ - `[Total Sales]`: It measures the total revenue generated from all sales transactions. It helps understand overall business performance and revenue generation.
+ - `[Total Profit]`: It measures the total money earned after subtracting costs from sales. It shows the company’s profitability and efficiency.
+ - `[Profit Margin]`: It measures profit as a percentage of total sales. It indicates how much revenue translates into actual profit, guiding pricing or product decisions.
+ - `[Sales Year-to-Date (YTD)]`: It measures cumulative sales from the start of the year up to the current date. It reveals growth trends and progress toward yearly sales targets.
+ - `[Sales Same Period Last Year (SPLY)]`: It measures sales during the same time period in the previous year. It allows year-over-year comparisons to evaluate business growth.
+ - `[Sales Year-on-Year %]`: It measures the percent change in sales compared to the same period last year. It quantifies growth and highlights trends in a way that’s easy to compare across periods.
 
 ### Methods Used
 
