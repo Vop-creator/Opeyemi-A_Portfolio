@@ -1,5 +1,5 @@
 # Raw Data
 
-   Place your original, unmodified source data here.
+   This is the original, unmodified source data 
 
-   **Never edit files in this folder.** This is your source of truth.
+  
