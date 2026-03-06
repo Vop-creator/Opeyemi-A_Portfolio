@@ -1,4 +1,4 @@
-# Electronic Sales Performance
+# Electronic Sales Performance Using Power BI
 
 I analyzed an electronic sales dataset in Power BI by cleaning and modelling the data, creating a custom Date table and DAX time-intelligence measures to reveal sales trends, channel performance, and profitability insights that support better business decisions.
 
@@ -49,7 +49,7 @@ An electronics company was generating large amounts of sales data across differe
 
 ### Tools & Technologies
 
- - Data Storage: CSV files
+ - Data Storage: Excel (XLSX) file
  - Data Processing: Power Query
  - Analysis: Power BI
  - Visualization: Power BI
@@ -59,8 +59,8 @@ An electronics company was generating large amounts of sales data across differe
 
 ## 4. Data Workflow
 
-  1. **Source**: "Monthly CSV sales exports from the company."
-  2. **Extraction**: "Imported CSV file into Power BI."
+  1. **Source**: "Dataset from the company."
+  2. **Extraction**: "Imported Excel file into Power BI."
   3. **Cleaning/Transformation**: "Removed Duplicates.
                 Fixed missing values.
                 Standardized data types and date formats in the datasets.
