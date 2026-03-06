@@ -158,7 +158,6 @@ I explored patterns in sales over time and across channels, product categories, 
 [Financial Data Analyst]
 
 - 🔗 [www.linkedin.com/in/opeyemialaladeprecious]
-- 💼 [Portfolio or GitHub profile URL]
 - 📧 [opalalalde@gmail.com]
 
 
