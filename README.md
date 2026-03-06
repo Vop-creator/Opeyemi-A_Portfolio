@@ -16,13 +16,12 @@ I analyzed an electronic sales dataset in Power BI by cleaning and modelling the
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Project Scope & Tools](#3-project-scope--tools)
-4. [Repository Structure](#4-repository-structure)
-5. [Data Workflow](#5-data-workflow)
-6. [Analysis & Metrics](#6-analysis--metrics)
-7. [Key Insights](#7-key-insights)
-8. [Recommendations](#8-recommendations)
-9. [Assumptions & Limitations](#9-assumptions--limitations)
-10. [Author](#10-author)
+4. [Data Workflow](#4-data-workflow)
+5. [Analysis & Metrics](#5-analysis--metrics)
+6. [Key Insights](#6-key-insights)
+7. [Recommendations](#7-recommendations)
+8. [Assumptions & Limitations](#8-assumptions--limitations)
+9. [Author](#9-author)
 
 
 
@@ -43,10 +42,10 @@ An electronic retail company was generating large amounts of sales data across d
 
 ### Scope
 
- - **In Scope**: "Sales transaction data including revenue, product categories, sales channels, and regional performance. Analysis focuses on identifying sales trends, top-                            performing categories, and regional contributions using Power BI visualizations"
- - **Out of Scope**: "Customer demographic information and marketing campaign data were excluded                         because the dataset only contains sales transactions, product categories,                           channels, and regions."
+ - **In Scope**: "Sales transaction data including revenue, product categories, sales channels, and regional performance. Analysis focuses on identifying sales trends, top-      performing categories, and regional contributions using Power BI visualizations"
+ - **Out of Scope**: "Customer demographic information and marketing campaign data were excluded because the dataset only contains sales transactions, product categories, channels, and regions."
  - **Time Period**: Dec 2012 - Dec 2015
- - **Granularity**: Transaction-level sales records aggregated into monthly, category-level, and                         regional summaries for analysis.
+ - **Granularity**: Transaction-level sales records aggregated into monthly, category-level, and regional summaries for analysis.
 
 ### Tools & Technologies
 
@@ -57,25 +56,8 @@ An electronic retail company was generating large amounts of sales data across d
  - Version Control: [ Git / GitHub]
  - Documentation: [Markdown]
 
-## 4. Repository Structure
 
-```
-[project-root]/
-│
-├── data/
-│   ├── raw/                  # Original, unmodified source data - never edited
-│   ├── processed/            # Cleaned and transformed data
-│   └── external/             # Reference data, lookup tables, third-party file
-│
-├── reports/                  # Final outputs: PDFs, slide decks, Word docs
-│
-├── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
-│
-├── project_metadata.yml      # Machine-readable metadata (optional)
-└── README.md                 # You are here
-```
-
-## 5. Data Workflow
+## 4. Data Workflow
 
   1. Source: "Monthly CSV sales exports from the company."
   2. Extraction: "Imported CSV file into Power BI."
@@ -100,7 +82,7 @@ An electronic retail company was generating large amounts of sales data across d
 ```
 
 
-## 6. Analysis & Metrics
+## 5. Analysis & Metrics
 
 ### Analytical Approach
 
@@ -124,7 +106,7 @@ I explored patterns in sales over time and across channels, product categories, 
 - Transformation logic in Power BI, including creating a Date table and computing KPIs for interactive dashboards.
 ---
 
-## 7. Key Insights
+## 6. Key Insights
 
 1. Reseller sales dominate the business, contributing ₦32.19M, more than double Online and Physical Store sales. This indicates that reseller relationships are critical and should be prioritized in strategic planning and incentives.
 2. Computers are the top-selling product category, generating ₦22M in revenue, while Music products have the highest profit margin at 60.65%. This suggests the company should focus on both high-volume and high-margin products to maximize profits.
@@ -133,7 +115,7 @@ I explored patterns in sales over time and across channels, product categories, 
 5. Total sales consistently outperformed the same period last year (SPLY), with a year-on-year growth of 39.76%, demonstrating strong business growth and validating the effectiveness of current sales channels and strategies.
 
 
-## 8. Recommendations
+## 7. Recommendations
 
   Priority: High
    - Recommendation: "Offer volume-based incentives or exclusive deals to resellers to secure                    and grow this channel."
@@ -156,7 +138,7 @@ I explored patterns in sales over time and across channels, product categories, 
    - Owner: Product Management / Marketing team
 
 
-## 9. Assumptions & Limitations
+## 8. Assumptions & Limitations
 
 **Assumptions:**
  - All sales transactions in the dataset are complete and accurately recorded.
@@ -170,7 +152,7 @@ I explored patterns in sales over time and across channels, product categories, 
 
 
 
-## 10. Author
+## 9. Author
 
 **OPEYEMI PRECIOUS ALALADE**
 Financial Data Analyst
