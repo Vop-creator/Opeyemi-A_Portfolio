@@ -155,7 +155,7 @@ I explored patterns in sales over time and across channels, product categories, 
 ## 10. Recommendations
 
 
-    Priority: High
+  Priority: High
   Recommendation: "Offer volume-based incentives or exclusive deals to resellers to secure                    and grow this channel."
   Based on: Insight 1 - Resellers contribute the majority of revenue
   Owner: Sales / Channel Management team
@@ -178,49 +178,26 @@ I explored patterns in sales over time and across channels, product categories, 
 
 ## 11. Assumptions & Limitations
 
-<!--
-  WHAT GOOD LOOKS LIKE:
-  Assumption: "Transaction records were assumed to be complete for all five regions.
-               No validation was performed against source system record counts."
-  Limitation: "The analysis cannot distinguish between returns initiated by
-               the customer vs. returns initiated by the business (e.g., recalls).
-               If business-initiated returns are concentrated in Region A, the
-               return rate finding may reflect a policy decision, not a quality issue."
+**Assumptions:**
+ - All sales transactions in the dataset are complete and accurately recorded.
+ - Dates and sales amounts are consistent and represent the true order and revenue information.
 
-  WHAT TO AVOID:
-  ❌ Leaving this section blank or writing "None known."
-     Every project has limitations. Documenting them is a sign of
-     analytical maturity - not a confession of failure.
--->
-
-### Assumptions
-- [What did you treat as true without being able to verify?]
-- [What simplifications did you make for scope or feasibility?]
-- [What domain rules or definitions did you accept as given?]
-
-### Limitations
-- [What gaps exist in the data?]
-- [What analysis was out of scope but could affect interpretation?]
-- [What would a more rigorous version of this project include?]
-- [Are there known biases in the data source or collection method?]
-
-> *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
-
----
+**Limitations**:
+ - The dataset does not include customer demographic or marketing campaign data, so insights cannot account for buyer behavior or promotional impact.
+ - Returns or refunds are not distinguished, so profit calculations assume all recorded sales contribute to revenue without adjustment for returns.
+ - Regional comparisons may be affected by missing or underreported sales in some zones, limiting the accuracy of insights for those areas.
 
 
 
 
 ## 14. Author
 
-**[Your Name]**
-[Your role or title - current or target]
+**OPEYEMI PRECIOUS ALALADE**
+Financial Data Analyst
 
-- 🔗 [LinkedIn URL]
+- 🔗 [www.linkedin.com/in/opeyemialaladeprecious]
 - 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email - optional]
+- 📧 [opalalalde@gmail.com]
 
----
 
-*Last updated: [Month YYYY]*
-*If this template helped you, consider starring the repository.*
+
