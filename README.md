@@ -49,12 +49,12 @@ An electronics company was generating large amounts of sales data across differe
 
 ### Tools & Technologies
 
- - Data Storage: [CSV files]
- - Data Processing: [Power Query]
- - Analysis | [Power BI]
- - Visualization: [Power BI]
- - Version Control: [ Git / GitHub]
- - Documentation: [Markdown]
+ - Data Storage: CSV files
+ - Data Processing: Power Query
+ - Analysis: Power BI
+ - Visualization: Power BI
+ - Version Control: Git / GitHub
+ - Documentation: Markdown
 
 
 ## 4. Data Workflow
