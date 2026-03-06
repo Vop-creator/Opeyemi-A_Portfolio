@@ -59,15 +59,15 @@ An electronics company was generating large amounts of sales data across differe
 
 ## 4. Data Workflow
 
-  1. Source: "Monthly CSV sales exports from the company."
-  2. Extraction: "Imported CSV file into Power BI."
-  3. Cleaning/Transformation: "Removed Duplicates.
+  1. **Source**: "Monthly CSV sales exports from the company."
+  2. **Extraction**: "Imported CSV file into Power BI."
+  3. **Cleaning/Transformation**: "Removed Duplicates.
                 Fixed missing values.
                 Standardized data types and date formats in the datasets.
                 Created Date table, Time intelligence measures."
-  5. Modelling: Created a star-scheme realtionship beween the data
-  6. Analysis: "Built dashboards to see trends, top channels, and profit margins."
-  7. Output: "Summary report (PDF)
+  5.** Modelling**: Created a star-scheme realtionship beween the data
+  6. **Analysis**: "Built dashboards to see trends, top channels, and profit margins."
+  7. **Output**: "Summary report (PDF)
 
 ```
 [Data Source(s)]
@@ -155,7 +155,7 @@ I explored patterns in sales over time and across channels, product categories, 
 ## 9. Author
 
 **OPEYEMI PRECIOUS ALALADE**
-Financial Data Analyst
+[Financial Data Analyst]
 
 - 🔗 [www.linkedin.com/in/opeyemialaladeprecious]
 - 💼 [Portfolio or GitHub profile URL]
