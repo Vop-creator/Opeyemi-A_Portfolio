@@ -3,7 +3,7 @@
 I analyzed an electronic sales dataset in Power BI by cleaning and modelling the data, creating a custom Date table and DAX time-intelligence measures to reveal sales trends, channel performance, and profitability insights that support better business decisions.
 
 
-## Project Type 
+## Project Type Flags
 
 - [x] Exploratory Data Analysis (EDA)
 - [x] Dashboard / Data Visualization
@@ -18,7 +18,7 @@ I analyzed an electronic sales dataset in Power BI by cleaning and modelling the
 3. [Project Scope & Tools](#3-project-scope--tools)
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
-6. [Analysis & Metrics](#8-analysis--metrics)
+6. [Analysis & Metrics](#6-analysis--metrics)
 7. [Key Insights](#9-key-insights)
 8. [Recommendations](#10-recommendations)
 9. [Assumptions & Limitations](#11-assumptions--limitations)
@@ -43,7 +43,7 @@ An electronic retail company was generating large amounts of sales data across d
 
 ### Scope
 
- - **In Scope**: "Sales transaction data including revenue, product categories, sales channels, and                   regional performance. Analysis focuses on identifying sales trends, top-                            performing categories, and regional contributions using Power BI visualizations"
+ - **In Scope**: "Sales transaction data including revenue, product categories, sales channels, and regional performance. Analysis focuses on identifying sales trends, top-                            performing categories, and regional contributions using Power BI visualizations"
  - **Out of Scope**: "Customer demographic information and marketing campaign data were excluded                         because the dataset only contains sales transactions, product categories,                           channels, and regions."
  - **Time Period**: Dec 2012 - Dec 2015
  - **Granularity**: Transaction-level sales records aggregated into monthly, category-level, and                         regional summaries for analysis.
@@ -100,7 +100,7 @@ An electronic retail company was generating large amounts of sales data across d
 ```
 
 
-## 8. Analysis & Metrics
+## 6. Analysis & Metrics
 
 ### Analytical Approach
 
@@ -124,25 +124,7 @@ I explored patterns in sales over time and across channels, product categories, 
 - Transformation logic in Power BI, including creating a Date table and computing KPIs for interactive dashboards.
 ---
 
-## 9. Key Insights
-
-<!--
-  Findings + implications. Not just what happened - what it means.
-
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Return rates, not sales volume, explain Region A's underperformance.
-      Region A's return rate on home goods was 34% - more than double the
-      company average. Revenue was not lost at the point of sale; it was
-      lost post-sale through refunds. This points to a fulfilment or
-      product quality issue specific to that region, not a demand problem."
-
-  WHAT TO AVOID:
-  ❌ "Region A had lower revenue than other regions in Q4."
-     (That's an observation. It describes what happened.
-      An insight says what it means and where to look next.)
-
-  Aim for 3–6 insights. Quality over quantity.
--->
+## 7. Key Insights
 
 1. Reseller sales dominate the business, contributing ₦32.19M, more than double Online and Physical Store sales. This indicates that reseller relationships are critical and should be prioritized in strategic planning and incentives.
 2. Computers are the top-selling product category, generating ₦22M in revenue, while Music products have the highest profit margin at 60.65%. This suggests the company should focus on both high-volume and high-margin products to maximize profits.
@@ -151,32 +133,30 @@ I explored patterns in sales over time and across channels, product categories, 
 5. Total sales consistently outperformed the same period last year (SPLY), with a year-on-year growth of 39.76%, demonstrating strong business growth and validating the effectiveness of current sales channels and strategies.
 
 
-
-## 10. Recommendations
-
+## 8. Recommendations
 
   Priority: High
-  Recommendation: "Offer volume-based incentives or exclusive deals to resellers to secure                    and grow this channel."
-  Based on: Insight 1 - Resellers contribute the majority of revenue
-  Owner: Sales / Channel Management team
+   - Recommendation: "Offer volume-based incentives or exclusive deals to resellers to secure                    and grow this channel."
+   - Based on: Insight 1 - Resellers contribute the majority of revenue
+   - Owner: Sales / Channel Management team
   
   Priority: High
-  Recommendation: "Increase inventory and marketing efforts in October–November to                             capitalize on peak sales."
-  Based on: Insight 3 - Sales peak in October and February is the lowest month.
-  Owner: Sales & Marketing team
+   - Recommendation: "Increase inventory and marketing efforts in October–November to                             capitalize on peak sales."
+   - Based on: Insight 3 - Sales peak in October and February is the lowest month.
+   - Owner: Sales & Marketing team
 
   Priority: High
-  Recommendation: "Launch targeted campaigns in underperforming regions (Federal and                          Northern zones) to increase awareness and sales."
-  Based on: Insight 4 - South East and South South regions dominate sales; others                                  underperform.
-  Owner: Regional Sales / Marketing team
+   - Recommendation: "Launch targeted campaigns in underperforming regions (Federal and                          Northern zones) to increase awareness and sales."
+   - Based on: Insight 4 - South East and South South regions dominate sales; others                                  underperform.
+   - Owner: Regional Sales / Marketing team
 
  Priority: Medium
-  Recommendation: "Promote high-margin products like Music and Cameras alongside top-                         volume products like Computers to maximize profitability."
-  Based on: Insight 2 - Computers have the highest sales volume; Music has the highest                             profit margin.
-  Owner: Product Management / Marketing team
+   - Recommendation: "Promote high-margin products like Music and Cameras alongside top-                         volume products like Computers to maximize profitability."
+   - Based on: Insight 2 - Computers have the highest sales volume; Music has the highest                             profit margin.
+   - Owner: Product Management / Marketing team
 
 
-## 11. Assumptions & Limitations
+## 9. Assumptions & Limitations
 
 **Assumptions:**
  - All sales transactions in the dataset are complete and accurately recorded.
@@ -190,7 +170,7 @@ I explored patterns in sales over time and across channels, product categories, 
 
 
 
-## 14. Author
+## 10. Author
 
 **OPEYEMI PRECIOUS ALALADE**
 Financial Data Analyst
