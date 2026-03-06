@@ -104,7 +104,7 @@ I explored patterns in sales over time and across channels, product categories, 
 - Sales comparison by sales channel, product category, and region.
 - Time-intelligence calculations using DAX, including Sales YTD, Sales QTD, SPLY, and Sales YoY %.
 - Transformation logic in Power BI, including creating a Date table and computing KPIs for interactive dashboards.
----
+
 
 ## 6. Key Insights
 
