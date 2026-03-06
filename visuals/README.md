@@ -1,3 +1,3 @@
-# Visuals
+# Visual
 
-   Place exported charts, screenshots, and diagrams here.
+This contains a screenshot of the dashboard after the analysis of the dataset.
