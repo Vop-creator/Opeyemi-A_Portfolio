@@ -9,7 +9,7 @@ I analyzed an electronic sales dataset in Power BI by cleaning and modelling the
 - [x] Dashboard / Data Visualization
 - [x]  ETL
 - [x] Data Cleaning/ Modelling
-- [x] End-to-End (multiple of the above)
+- [x] End-to-End
 
 
 ## Table of Contents
@@ -18,13 +18,11 @@ I analyzed an electronic sales dataset in Power BI by cleaning and modelling the
 3. [Project Scope & Tools](#3-project-scope--tools)
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
-7. [Analysis & Metrics](#8-analysis--metrics)
-8. [Key Insights](#9-key-insights)
-9. [Recommendations](#10-recommendations)
-10. [Assumptions & Limitations](#11-assumptions--limitations)
-11. [Future Enhancements](#12-future-enhancements)
-12. [Deliverables](#13-deliverables)
-13. [Author](#14-author)
+6. [Analysis & Metrics](#8-analysis--metrics)
+7. [Key Insights](#9-key-insights)
+8. [Recommendations](#10-recommendations)
+9. [Assumptions & Limitations](#11-assumptions--limitations)
+10. [Author](#14-author)
 
 
 
