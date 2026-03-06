@@ -19,10 +19,10 @@ I analyzed an electronic sales dataset in Power BI by cleaning and modelling the
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
 6. [Analysis & Metrics](#6-analysis--metrics)
-7. [Key Insights](#9-key-insights)
-8. [Recommendations](#10-recommendations)
-9. [Assumptions & Limitations](#11-assumptions--limitations)
-10. [Author](#14-author)
+7. [Key Insights](#7-key-insights)
+8. [Recommendations](#8-recommendations)
+9. [Assumptions & Limitations](#9-assumptions--limitations)
+10. [Author](#10-author)
 
 
 
