@@ -146,48 +146,37 @@ I explored patterns in sales over time and across channels, product categories, 
   Aim for 3–6 insights. Quality over quantity.
 -->
 
-**Insight 1: [Short descriptive headline]**
-[What you found + what it suggests. One short paragraph.]
+1. Reseller sales dominate the business, contributing ₦32.19M, more than double Online and Physical Store sales. This indicates that reseller relationships are critical and should be prioritized in strategic planning and incentives.
+2. Computers are the top-selling product category, generating ₦22M in revenue, while Music products have the highest profit margin at 60.65%. This suggests the company should focus on both high-volume and high-margin products to maximize profits.
+3. Sales peaked in October and were lowest in February, revealing strong seasonal patterns. Marketing campaigns and inventory management should focus on peak months, while low months could be targeted with clearance sales or operational optimizations
+4. South East and South South regions account for the majority of sales, while the Federal and Northern zones underperform. This highlights untapped market opportunities and suggests that targeted promotions in underperforming regions could drive growth.
+5. Total sales consistently outperformed the same period last year (SPLY), with a year-on-year growth of 39.76%, demonstrating strong business growth and validating the effectiveness of current sales channels and strategies.
 
-**Insight 2: [Short descriptive headline]**
-[What you found + what it suggests.]
 
-**Insight 3: [Short descriptive headline]**
-[What you found + what it suggests.]
-
-**Insight 4 (if applicable): [Short descriptive headline]**
-[What you found + what it suggests.]
-
----
 
 ## 10. Recommendations
 
-<!--
-  Action-oriented. Addressed to a real audience.
-  Tied explicitly to the insight that supports each one.
 
-  WHAT GOOD LOOKS LIKE:
+    Priority: High
+  Recommendation: "Offer volume-based incentives or exclusive deals to resellers to secure                    and grow this channel."
+  Based on: Insight 1 - Resellers contribute the majority of revenue
+  Owner: Sales / Channel Management team
+  
   Priority: High
-  Recommendation: "Conduct a fulfilment audit for home goods deliveries
-                   in Region A - specifically investigating whether returns
-                   correlate with a particular warehouse, carrier, or SKU batch."
-  Based On: Insight 1 - return rate anomaly in Region A
-  Owner: Operations / Supply Chain team
+  Recommendation: "Increase inventory and marketing efforts in October–November to                             capitalize on peak sales."
+  Based on: Insight 3 - Sales peak in October and February is the lowest month.
+  Owner: Sales & Marketing team
 
-  WHAT TO AVOID:
-  ❌ "Improve the return rate."
-     (Not actionable. Doesn't say who, how, or where to start.)
-  ❌ "Further analysis is needed."
-     (This is a placeholder, not a recommendation.)
--->
+  Priority: High
+  Recommendation: "Launch targeted campaigns in underperforming regions (Federal and                          Northern zones) to increase awareness and sales."
+  Based on: Insight 4 - South East and South South regions dominate sales; others                                  underperform.
+  Owner: Regional Sales / Marketing team
 
-| Priority | Recommendation | Based On | Suggested Owner |
-|----------|---------------|----------|-----------------|
-| High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
+ Priority: Medium
+  Recommendation: "Promote high-margin products like Music and Cameras alongside top-                         volume products like Computers to maximize profitability."
+  Based on: Insight 2 - Computers have the highest sales volume; Music has the highest                             profit margin.
+  Owner: Product Management / Marketing team
 
----
 
 ## 11. Assumptions & Limitations
 
@@ -221,37 +210,8 @@ I explored patterns in sales over time and across channels, product categories, 
 
 ---
 
-## 12. Future Enhancements
 
-<!--
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Automate the monthly data pull from the POS export folder using
-      a scheduled Python script, replacing the current manual process."
-  ✅ "Expand the return rate analysis to include carrier-level data,
-      which was unavailable in this dataset but exists in the logistics system."
 
-  WHAT TO AVOID:
-  ❌ "Add a machine learning model."
-     (Vague, and disconnected from the actual findings of this project.)
-  ❌ Listing aspirational features that don't follow logically from the work.
--->
-
-- [ ] [Enhancement 1 - specific and traceable to a real gap in this project]
-- [ ] [Enhancement 2]
-- [ ] [Enhancement 3]
-- [ ] [Enhancement 4]
-
----
-
-## 13. Deliverables
-
-| Deliverable | Description | Location |
-|-------------|-------------|----------|
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-
----
 
 ## 14. Author
 
